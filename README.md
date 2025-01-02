@@ -1,6 +1,7 @@
 # Music Streaming App - Spotify Clone Model CMR
 
 Elevate your Flutter app collection with a dynamic music streaming app inspired by Spotify! This robust application features seamless music playback, the ability to add and remove tracks from favorites, and a beautifully displayed catalog of music. Built with Bloc for state management, Firebase for reliable backend services like user authentication and data storage, and clean architecture for a scalable and maintainable codebase, this app delivers both performance and style.
+![Alt text](https://github.com/cabrelngamaleu/Spotify_Clone-Mobile/blob/829468126151538b5ec29811c55a62105ee45d3e/screenshot.jpg)
 
 ## Features
 
